@@ -1,0 +1,20 @@
+npm install --save ganache-cli@6.0.3 mocha@4.1.0 solc@0.4.19 fs-extra@5.0.0 web3@1.0.0-beta.35
+
+For using Next in your program use these commands
+
+--- npm install --save react-dom@16.2.0
+--- npm install --save react@16.2.0
+--- npm install --save next@4.1.4
+
+Add dev script into package.json file 
+
+"dev":"next dev";
+
+For using some cool predefined component we 
+install a package named as semantic-ui-react
+
+--- npm install --save semantic-ui-react@0.77.1
+
+For using dynamic routing 
+
+--- npm install --save next-routes
